@@ -4,6 +4,7 @@ A collection of Python Mini Projects created while learning and practicing Pytho
 ## Projects
 - 🎮 Quiz Game
 - 🎯 Number Guessing Game
+- 
 
 More Python mini projects will be added as I continue learning.
 
